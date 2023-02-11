@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_ACL.MainPage"
+             NavigationPage.HasNavigationBar="false">
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Abelardo Cruz Leos" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid Margin="20,50,20,50">
+            <Label Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="Calculadora" FontSize="Large" FontFamily="Arial" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"></Label>
+            <Entry Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" Keyboard="Numeric" x:Name="Pantalla" IsReadOnly="True" ></Entry>
+            <Button Grid.Row="2" Grid.Column="0" Text="AC" TextColor="White" BackgroundColor="Orange" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="2" Grid.Column="1"  Text="←" TextColor="White" BackgroundColor="red" Clicked="OnSelect"  ></Button>
+            <Button Grid.Row="2" Grid.Column="2" Text="%" TextColor="White" BackgroundColor="Brown" ></Button>
+            <Button Grid.Row="2" Grid.Column="3" Text="+" Clicked="OnSelect" TextColor="White" BackgroundColor="Brown" ></Button>
+            <Button Grid.Row="3" Grid.Column="0"  Text="7" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="3" Grid.Column="1"  Text="8" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="3" Grid.Column="2"  Text="9" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="3" Grid.Column="3"  Text="-" Clicked="OnSelect" TextColor="White" BackgroundColor="Brown" ></Button>
+            <Button Grid.Row="4" Grid.Column="0"  Text="4" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="4" Grid.Column="1" Text="5" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="4" Grid.Column="2" Text="6" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="4" Grid.Column="3" Text="*" Clicked="OnSelect" TextColor="White" BackgroundColor="Brown" ></Button>
+            <Button Grid.Row="5" Grid.Column="0" Text="1" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="5" Grid.Column="1" Text="2" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="5" Grid.Column="2" Text="3" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="5" Grid.Column="3" Text="÷" Clicked="OnSelect" TextColor="White" BackgroundColor="Brown" ></Button>
+            <Button Grid.Row="6" Grid.Column="0" Text="0" Clicked="OnSelect" ></Button>
+            <Button Grid.Row="6" Grid.Column="1" Text="," Clicked="OnSelect" ></Button>
+            <Button Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="2" Text="=" TextColor="White" BackgroundColor="blue" Clicked="OnSelect" ></Button>
+        </Grid>
+    </StackLayout>
+</ContentPage>

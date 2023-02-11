@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\bin\Debug\netstandard2.0\Calculadora_ACL.deps.json
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\bin\Debug\netstandard2.0\Calculadora_ACL.dll
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\bin\Debug\netstandard2.0\Calculadora_ACL.pdb
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\Calculadora_ACL.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\Calculadora_ACL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\Calculadora_ACL.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\Calculadora_ACL.AssemblyInfo.cs
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\Calculadora_ACL.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\Calculadora_ACL.dll
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\refint\Calculadora_ACL.dll
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\Calculadora_ACL.pdb
+C:\Users\abela\source\repos\Calculadora_ACL\Calculadora_ACL\Calculadora_ACL\obj\Debug\netstandard2.0\ref\Calculadora_ACL.dll
